@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whk9sd2t4r-droid.github.io/matrix-zero/sitemap.xml
